@@ -4,7 +4,7 @@ Group members name
 3) Bisrat shimelis
 4) kena  Gebeyeh
 5) Ruth Teshome
-6) Tsion 
+6) Tsion abraham
 7) Kena Dereje
 8) Samule Gezahege
 9) Abdulaziz Gemal
