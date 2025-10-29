@@ -3,8 +3,8 @@ Group members name
 2) Nahom Negussie
 3) Bisrat shimelis
 4) kena  gebyehew
-5) Ruth
-6) Tsion
+5) Ruth Teshome
+6) Tsion 
 7) Kena Dereje
 8) Samule Gezahege
 9) Abdulaziz Gemal
