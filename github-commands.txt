@@ -13,3 +13,7 @@ to check your email and username
 git config --global --list
 to download and sync files that are updated by other members
 git pull
+to check for branch and untracked files
+git status
+to add or to get a file tracked 
+git add (filename)
