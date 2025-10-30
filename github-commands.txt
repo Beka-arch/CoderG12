@@ -17,3 +17,7 @@
 ->git status
 *to add or to get a file tracked 
 ->git add (filename)
+*to check members list 
+->  git shortlog -s -n
+*to check members username and email
+->git log --format='%an <%ae>' | Sort-Object | Get-Unique
