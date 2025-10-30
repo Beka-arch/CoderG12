@@ -1,19 +1,19 @@
-to specify a folder 
-cd (the folder name)
-to download the file 
-git clone (the link )
-to know who touched a file
-git log --follow (the file name)
-to know who edited the line of code
-git blame (file name)
-to input your user name and email 
-git config --global user.name "(your username)
-git congig --global user.email "(your email)
-to check your email and username
-git config --global --list
-to download and sync files that are updated by other members
-git pull
-to check for branch and untracked files
-git status
-to add or to get a file tracked 
-git add (filename)
+*to specify a folder 
+->cd (the folder name)
+*to download the file 
+->git clone (the link )
+*to know who touched a file
+->git log --follow (the file name)
+*to know who edited the line of code
+->git blame (file name)
+*to input your user name and email 
+->git config --global user.name "(your username)
+->git congig --global user.email "(your email)
+*to check your email and username
+->git config --global --list
+*to download and sync files that are updated by other members
+->git pull
+*to check for branch and untracked files
+->git status
+*to add or to get a file tracked 
+->git add (filename)
