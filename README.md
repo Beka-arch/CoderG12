@@ -8,6 +8,7 @@ Group members name
 7) Kena Dereje
 8) Samuel Gezahegn
 9) Abdulaziz Jemil
-10) Siryet Tilahun
+10) Sriyet Tilahun
+
 
 
