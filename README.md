@@ -7,8 +7,9 @@ Group members name
 6) Tsion Abraham
 7) Kena Dereje
 8) Samuel Gezahegn
-9) Abdulaziz Jemil
+9) Abdulaziz jemil
 10) Sriyet Tilahun
+
 
 
 
